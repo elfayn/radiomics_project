@@ -1,0 +1,14 @@
+imageType:
+  Original: {}
+  LoG:
+    sigma: [1.0]
+
+featureClass:
+  shape: []
+  firstorder: []
+  glcm: []
+
+setting:
+  binWidth: 25
+  interpolator: sitkLinear
+  normalize: false

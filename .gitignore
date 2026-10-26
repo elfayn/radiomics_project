@@ -1,0 +1,10 @@
+# Hasta verileri ve MR goruntuleri
+data/raw_dataset/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
